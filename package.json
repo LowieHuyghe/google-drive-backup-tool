@@ -45,7 +45,7 @@
     "simple-git": "^1.95.1"
   },
   "devDependencies": {
-    "@types/chai": "^4.1.2",
+    "@types/chai": "^4.1.4",
     "@types/config": "0.0.34",
     "@types/inquirer": "0.0.41",
     "@types/line-reader": "0.0.28",
